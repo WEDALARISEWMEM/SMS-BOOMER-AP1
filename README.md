@@ -1,5 +1,4 @@
 # SMS-BOOMER-APİ
-SMS 
 
 Sorgu Panelinizde kullanabileceğiniz Sms yollama apisi
 
