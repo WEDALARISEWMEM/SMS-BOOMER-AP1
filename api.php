@@ -29,6 +29,6 @@ function Bim($phone) {
     }
 }  /*CODER BY KRON1K*/
 
-/* not: KENDİNİZE GÖRE AYARLARSINIZ ATTIM BURAYA Bİ APİ PANELİ OLAN KULLANMAK İSTEYEN KULLANSIN Pythondan php curl ile yaptım kafama eserse daha atarım izinsiz paylaşılması yasaktır 3-5 çapulcuya prim dahi vermicem apileri yokmuş alsınlar kullansınlar ;) Jett Panel
+/* not: KENDİNİZE GÖRE AYARLARSINIZ ATTIM BURAYA Bİ APİ  OLAN KULLANMAK İSTEYEN KULLANSIN Pythondan php curl ile yaptım kafama eserse daha atarım izinsiz paylaşılması yasaktır 3-5 çapulcuya prim dahi vermicem apileri yokmuş alsınlar kullansınlar ;)
 
 Farkıyla ;)*/
