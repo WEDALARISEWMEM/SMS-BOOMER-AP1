@@ -5,7 +5,7 @@ Sorgu Panelinizde kullanabileceğiniz Sms yollama apisi
 
   
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1088760123645755444?hideDiscrim=true)](https://discord.com/users/1108498175653859358)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
 
   
  # Kurulum & İçerik 
