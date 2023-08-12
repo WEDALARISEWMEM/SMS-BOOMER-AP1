@@ -1,7 +1,7 @@
 # SMS-BOOMER-APİ
 Star & Fork atarsınız artık beleş api sağlıyoz ASLFKŞJASKFLASF
 
-Sorgu Panelinizde kullanabileceğiniz Sms yollama apisi
+istediğiniz gibi kullanabileceğiniz Sms yollama apisi
 
   
 
@@ -23,3 +23,6 @@ Ajax ile istek gönderdiğiniz yere api klasörüne atılacaktır mal değilsen 
 
  - [Discord Profilim](https://discord.com/users/1108498175653859358)
 
+# sorumluluk reddi
+
+- hukuki açıdan hiçbir sorumluluğu kabul etmediğimi belirtmek isterim kullanıcının sorumluluğundadır sadece eğitim amaçlıdır!
