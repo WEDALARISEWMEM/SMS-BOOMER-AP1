@@ -5,7 +5,7 @@ Sorgu Panelinizde kullanabileceğiniz Sms yollama apisi
 
   
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1088760123645755444?hideDiscrim=true)](https://discord.com/users/1088760123645755444)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1088760123645755444?hideDiscrim=true)](https://discord.com/users/1108498175653859358)
 
   
  # Kurulum & İçerik 
@@ -21,5 +21,5 @@ Ajax ile istek gönderdiğiniz yere api klasörüne atılacaktır mal değilsen 
 
  # iletişim veya soru için
 
- - [Discord Profilim](https://discord.com/users/1088760123645755444)
- - [Jett Panel Telegram adresimiz](https://t.me/jettchecker)
+ - [Discord Profilim](https://discord.com/users/1108498175653859358)
+
